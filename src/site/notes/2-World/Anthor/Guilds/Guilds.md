@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/anthor/guilds/guilds/"}
+{"dg-publish":true,"permalink":"/2-world/anthor/guilds/guilds/","tags":["gardenEntry"]}
 ---
 
 > [!quote|wtall]
