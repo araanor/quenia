@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-world/pantheon/muara-arrayer-of-armies/"}
+{"dg-publish":true,"permalink":"/2-world/pantheon/muara-arrayer-of-armies/","noteIcon":""}
 ---
 
 >[!quote]
