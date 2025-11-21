@@ -20,4 +20,5 @@
 > [!abstract] Banishment
 >  [[3-Mechanics/CLI/spells/banishment-xphb\|Banishment]] is banned
 >  [[3-Mechanics/CLI/spells/true-polymorph-xphb\|True Polymorph]] is banned
+>  [[3-Mechanics/CLI/spells/simulacrum-xphb\|Simulacrum]] is banned
 
