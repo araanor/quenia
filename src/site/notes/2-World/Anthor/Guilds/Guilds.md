@@ -17,5 +17,6 @@ The guilds of  Anthor are political groups that have formed over centuries to co
 - **[[2-World/Anthor/Guilds/Kimura clan/Kimura clan\|Kimura clan]]**
 - **[[2-World/Anthor/Guilds/Tears of the ocean/Tears of the ocean\|Tears of the ocean]]**
 - **[[2-World/Anthor/Guilds/Traders Guild/Traders Guild\|Traders Guild]]**
+- **[[2-World/Anthor/Guilds/Wreldrin/Wreldrin\|Wreldrin]]**
 
 
