@@ -4,5 +4,5 @@
 
 
 - [[2-World/Anthor/Atenian Empire/Darkhollow Watch\|Darkhollow Watch]]
-- [[2-World/Anthor/Atenian Empire/Steelcrag Watch\|Steelcrag Watch]]
+- **[[2-World/Anthor/Atenian Empire/Steelcrag Watch/Steelcrag Watch\|Steelcrag Watch]]**
 
